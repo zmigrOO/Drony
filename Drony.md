@@ -1,6 +1,10 @@
 # Omówienie
 
 # Ważne informacje
+### Linki
+ - [Community FPV](https://www.diyfpv.com/)
+ - [Słownik trików](https://prowhooper.com/tricktionary/)
+ - [Baza Wiedzy (YouTube)](https://www.youtube.com/@JoshuaBardwell)
 
 # Zadania
 
