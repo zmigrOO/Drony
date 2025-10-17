@@ -8,11 +8,11 @@ Każdy silnik BLDC charakteryzuje się parametrem **KV** (ang. _RPM per Volt_), 
 
 Silniki bezszczotkowe w konfiguracji FPV wymagają również odpowiedniego chłodzenia, ponieważ przy dużych prądach (rzędu kilkudziesięciu amperów) mogą się nagrzewać, co prowadzi do spadku efektywności. Ze względu na ich wysoką dynamikę i stosunkowo niską masę własną, stanowią one obecnie standard w większości platform FPV oraz w dronach wyścigowych.
 
-| Zdjęcie                          | Nazwa          | Cechy                        |
-| -------------------------------- | -------------- | ---------------------------- |
-| ![[motor_Page 1_motor.png\|300]] | Motor (Silnik) | Silnik                       |
-| ![[motor_Page 2_motor.png\|300]] | Stator         | Część statyczna silnika      |
-| ![[motor_Page 3_motor.png\|300]] | Rotor (Wirnik) | Część silnika obracająca się |
+| Zdjęcie                                            | Nazwa          | Cechy                        |
+| -------------------------------------------------- | -------------- | ---------------------------- |
+| <img src="Img/motor_Page 1_motor.png" width=300px> | Motor (Silnik) | Silnik                       |
+| <img src="Img/motor_Page 2_motor.png" width=300px> | Stator         | Część statyczna silnika      |
+| <img src="Img/motor_Page 3_motor.png" width=300px> | Rotor (Wirnik) | Część silnika obracająca się |
 ### Silniki szczotkowe - brushed
 Silniki szczotkowe (ang. _Brushed DC Motor_) to starszy typ silników prądu stałego, w których komutacja prądów w uzwojeniach realizowana jest mechanicznie za pomocą szczotek i komutatora. Choć konstrukcja tego typu napędów jest prostsza i tańsza w produkcji, ich wadą jest zwiększone zużycie elementów mechanicznych, niższa sprawność oraz ograniczona żywotność wynikająca z tarcia szczotek.
 
