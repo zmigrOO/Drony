@@ -1,5 +1,5 @@
 ## Spis treści
- - [Organizacja](Organizacja)
+ - [Organizacja](Organizacja/Organizacja.md)
 	 - [PSO](PSO)
  - [Praktyka](Praktyka)
 	 - [Budowa](Budowa)
