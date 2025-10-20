@@ -5,7 +5,7 @@
 # Zadania
 
 # Powiązane tematy
-1. [[FC]]
+1. [FC](FC)
 2. [[ESC]]
 3. [[VTX]]
 4. [[Silniki]]
