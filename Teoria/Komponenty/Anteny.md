@@ -1,5 +1,6 @@
 # Omówienie
-
+### Patch (kierunkowe)
+### 
 # Ważne informacje
 
 # Zadania
