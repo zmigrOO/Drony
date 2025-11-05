@@ -10,12 +10,12 @@
 	- [ ] [Komponenty](Teoria/Komponenty/Komponenty.md)
 		- [x] [Anteny](Teoria/Komponenty/Anteny.md)
 		- [ ] [ESC](Teoria/Komponenty/ESC.md)
-		- [ ] [FC](Teoria/Komponenty/FC.md)
+		- [x] [FC](Teoria/Komponenty/FC.md)
 		- [ ] [Kamera](Teoria/Komponenty/Kamera.md)
 		- [x] [Silniki](Teoria/Komponenty/Silniki.md) ***Nowe informacje***
 		- [ ] [Śmigła](Teoria/Komponenty/Śmigła.md)
 		- [ ] [VTX](Teoria/Komponenty/VTX.md)
-		- [ ] 
+		- [ ] [Akumulatory](Teoria/Komponenty/Akumulatory.md)
 	- [ ] [Protokoły](Teoria/Protokoły/Protokoły.md)
 		- [x] [Sterowanie](Teoria/Protokoły/Sterowanie.md)
 		- [x] [Wizja](Teoria/Protokoły/Wizja.md) ***Nowe informacje***
