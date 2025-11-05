@@ -22,6 +22,9 @@ Silniki tego typu nie posiadają parametru KV w klasycznym znaczeniu, ponieważ 
 
 Podsumowując, silniki szczotkowe stanowią rozwiązanie ekonomiczne i proste w implementacji, natomiast silniki bezszczotkowe dominują w bardziej zaawansowanych konstrukcjach FPV ze względu na lepsze parametry pracy, większą precyzję sterowania i wyższą efektywność energetyczną.
 
+> [!INFO] Ważne pojęcia
+> **KV** - Parametr określający ilość obrotów przy napięciu 1V
+
 # Ważne informacje
 ### Porównanie
 
