@@ -15,6 +15,7 @@
 		- [x] [Silniki](Teoria/Komponenty/Silniki.md) ***Nowe informacje***
 		- [ ] [Śmigła](Teoria/Komponenty/Śmigła.md)
 		- [ ] [VTX](Teoria/Komponenty/VTX.md)
+		- [ ] 
 	- [ ] [Protokoły](Teoria/Protokoły/Protokoły.md)
 		- [x] [Sterowanie](Teoria/Protokoły/Sterowanie.md)
 		- [x] [Wizja](Teoria/Protokoły/Wizja.md) ***Nowe informacje***
