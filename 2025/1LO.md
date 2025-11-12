@@ -2,7 +2,7 @@
 	 - [x] [PSO](Organizacja/PSO.md)
   - [ ] [Praktyka](Praktyka/Praktyka.md)
 	 - [ ] [Budowa](Praktyka/Budowa.md)
-	 - [ ] [Flashowanie](Praktyka/Flashowanie.md)
+	 - [ ] [Flashowanie](Flashowanie.md)
 	 - [ ] [Łączenie](Praktyka/Łączenie.md)
 	 - [ ] [Lutowanie](Praktyka/Lutowanie.md)
 	 - [ ] [Naprawa](Praktyka/Naprawa.md)
