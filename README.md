@@ -13,12 +13,12 @@
 		- [ESC](Teoria/Komponenty/ESC.md)
 		- [FC](Teoria/Komponenty/FC.md)
 		- [Kamera](Teoria/Komponenty/Kamera.md)
-		- [Silniki](Teoria/Komponenty/Silniki.md) ***Nowe informacje***
+		- [Silniki](Teoria/Komponenty/Silniki.md) 
 		- [Śmigła](Teoria/Komponenty/Śmigła.md)
 		- [VTX](Teoria/Komponenty/VTX.md)
 		- [Akumulatory](Teoria/Komponenty/Akumulatory.md)
 	- [Protokoły](Teoria/Protokoły/Protokoły.md)
 		- [Sterowanie](Teoria/Protokoły/Sterowanie.md)
-		- [Wizja](Teoria/Protokoły/Wizja.md) ***Nowe informacje***
+		- [Wizja](Teoria/Protokoły/Wizja.md) 
 	- [Elektronika](Teoria/Elektronika.md)
 	- [Prawo](Teoria/Prawo.md)
